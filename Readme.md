@@ -16,8 +16,7 @@ This project demonstrates practical system administration skills including domai
 ---
 
 ## Network Diagram
-![Network Diagram]([https://github.com/AleenWalker/windows-server-ad-lab/blob/main/Diagrams/ad-lab-network-diagram.png])
-
+<img width="580" height="491" alt="Image" src="https://github.com/user-attachments/assets/0394855d-e967-4b9d-87e9-df35d1daf08a" />
 ---
 
 ## Implemented Features
