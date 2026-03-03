@@ -52,9 +52,3 @@ This project demonstrates practical system administration skills including domai
 
 ---
 
-## Key Skills Demonstrated
-- Active Directory administration
-- Windows Server management
-- Access control and permissions
-- Automation with PowerShell
-- Troubleshooting and documentation>)
